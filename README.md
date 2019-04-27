@@ -2,12 +2,11 @@
 Hackerrank Practice
 
 	
-. Numpy_Transpose_Flatten	
+.  Numpy_Transpose_Flatten	
 
-. Numpy_tuples of zeros n ones	
+.  Numpy_tuples of zeros n ones	
 
-. Challenege- Find the percentage
+.  Challenege- Find the percentage
 
-. re-split.pdf	
+.  re-split.py	
 
-. re.spilt.py
